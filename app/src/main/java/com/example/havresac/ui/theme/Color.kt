@@ -1,4 +1,4 @@
-package com.example.havre_sac.ui.theme
+package com.example.havresac.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

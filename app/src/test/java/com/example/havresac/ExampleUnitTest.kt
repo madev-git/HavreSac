@@ -1,4 +1,4 @@
-package com.example.havre_sac
+package com.example.havresac
 
 import org.junit.Test
 
